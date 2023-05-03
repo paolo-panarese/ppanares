@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppanares
 - 👀 I’m interested in mathematical modeling, machine learning and deep learning
-- 🌱 I’m currently learning object detection and reinforcement learning
+- 🌱 I’m currently learning computer vision, generative deep learning and reinforcement learning
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me: ppanares@mathworks.com 
 
